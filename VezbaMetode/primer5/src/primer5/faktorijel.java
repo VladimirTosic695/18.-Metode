@@ -1,0 +1,20 @@
+package primer5;
+
+public class faktorijel {
+	
+	static int fakt(int n) {
+		if(n == 0) {
+			return 1;
+		} else {
+		return	 fakt(n-1)*n;
+		}
+		
+	}
+
+	public static void main(String[] args) {
+		
+		System.out.println("Faktorijel broja 5: " + fakt(5));
+
+	}
+
+}

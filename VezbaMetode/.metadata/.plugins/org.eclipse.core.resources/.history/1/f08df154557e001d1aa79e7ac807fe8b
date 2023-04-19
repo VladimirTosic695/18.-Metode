@@ -1,0 +1,16 @@
+package primer1;
+
+public class Main {
+	
+	public static int metoda(int x) {
+		
+		return x*x;
+	}
+
+	public static void main(String[] args) {
+		
+		System.out.println("Kvadrat broja 5 je "+Main.metoda(5));
+
+	}
+
+}

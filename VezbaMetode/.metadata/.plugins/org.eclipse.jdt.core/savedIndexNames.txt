@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Users\Vladimir\Desktop\Vezba Metode\.metadata\.plugins\org.eclipse.jdt.core
+193281244.index
+2859497155.index
+2088897610.index
+216594629.index
+2458676582.index
+1865797976.index
+1068442711.index
+3806763497.index
+2514594175.index
